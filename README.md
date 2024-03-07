@@ -1,2 +1,1 @@
-# MabiSteamLauncher
-Steam Launcher + Server switcher
+# Mabi-Steam-Launcher
